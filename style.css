@@ -1,0 +1,29 @@
+body{
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+body{
+    color: white;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+ table, th, td {
+    border: 2px solid white; /* 2px wide, dashed, red border */
+  }
+
+  h2{
+    font-family: monospace;
+    color:  #FF0000;
+  }
+
+  th{
+    font-family:monospace, Arial, serif;
+  }
